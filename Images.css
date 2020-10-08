@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	margin-top: 50px;
+	font-family: 'David Libre', serif;
+	background: linear-gradient(#ff0d00 0%, #aa00ff 50%, #007bff 100%);
+}
+
+img {
+	height: 50%;
+}
+
+h1 {
+	font-family: 'David Libre', serif;
+	color: darkturquoise;
+}
+h2 {
+	font-family: 'David Libre', serif;
+	color: aliceblue;
+}
+#elsabty:hover{
+transform: scale(0.6);
+}
